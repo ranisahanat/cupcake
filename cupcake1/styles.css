@@ -1,0 +1,73 @@
+/* styles.css */
+.logo-font {
+    font-family: 'Great Vibes', cursive;
+}
+
+.header-icon {
+    color: white;
+}
+
+.call-button {
+    border: 1px solid #fcd34d;
+    color: #fcd34d;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    transition: background-color 0.3s;
+}
+
+.call-button:hover {
+    background-color: #fbbf24;
+}
+
+.social-links {
+    margin-top: 16px;
+    align-self: flex-start;
+}
+
+.social-icon {
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.social-icon:hover {
+    background-color: #fbbf24;
+}
+
+.nav-links {
+    margin-top: 64px;
+}
+
+.nav-link {
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #fcd34d;
+}
+
+.order-button {
+    margin-top: 32px;
+    background-color: #fcd34d;
+    color: black;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    transition: background-color 0.3s;
+}
+
+.order-button:hover {
+    background-color: #fbbf24;
+}
+
+header{
+    background-color: #2d3748;
+}
+
+nav{
+    background-color: black;
+}
+
+section{
+    position: relative;
+}
